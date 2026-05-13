@@ -45,3 +45,15 @@ src/main/java/com/artemisa/Rana/
 │   ├── Fragmentos.java       # Representación inmutable de datos
 │   └── ResultadoRana.java    # Métricas finales del análisis
 └── Rana.java                 # Motor principal del algoritmo
+```
+---
+## 📄 Licencia
+
+MIT — libre para uso, estudio y modificación.
+
+---
+
+## 👤 Autor
+
+Cristian Flores  
+Backend Java Developer 
